@@ -30,7 +30,7 @@ This project demonstrates the design of a structured network architecture connec
 You can download the complete Cisco Packet Tracer
 project using the link below.
 
-[Download Campus Network Design (.pkt)](Campus-Network-Design.pkt)
+[Download Campus Network Design (.pkt)](./Campus_Network_Design.pkt)
 
 
 Project Screenshots
