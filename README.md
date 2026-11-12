@@ -27,9 +27,11 @@ This project demonstrates the design of a structured network architecture connec
 - Packet Flow Simulation
 
 ## Project File
-Campus_Network_Design.pkt
+You can download the complete Cisco Packet Tracer
+project using the link below.
 
-Open the file using Cisco Packet Tracer to explore the network topology.
+[Download Campus Network Design (.pkt)](Campus-Network-Design.pkt)
+
 
 Project Screenshots
 <img width="495" height="356" alt="ping2" src="https://github.com/user-attachments/assets/2165c46c-70e7-4e2b-a405-1c9d6692008d" />
