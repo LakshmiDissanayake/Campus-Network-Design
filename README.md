@@ -34,9 +34,8 @@ project using the link below.
 
 
 Project Screenshots
-![Ping Screenshot](./screenshots/Screenshots/ping.png)
-![Ping2 Screenshot](./screenshots/Screenshots/ping2.png)
-
+[View Ping Screenshot](screenshots/Screenshots/ping.png)
+[View Ping2 Screenshot](screenshots/Screenshots/ping2.png)
 
 
 ## Author
