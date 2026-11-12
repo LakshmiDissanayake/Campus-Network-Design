@@ -34,7 +34,7 @@ project using the link below.
 
 
 Project Screenshots
-<img width="495" height="356" alt="ping2" src="https://github.com/user-attachments/assets/2165c46c-70e7-4e2b-a405-1c9d6692008d" />
+![Ping Test](screenshots/Screenshots/ping.png)
 
 
 
