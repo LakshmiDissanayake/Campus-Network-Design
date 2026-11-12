@@ -34,8 +34,8 @@ project using the link below.
 
 
 Project Screenshots
-![Ping Test](screenshots/Screenshots/ping.png)
-![Ping2 Test](screenshots/Screenshots/ping2.png)
+![Ping Screenshot](./screenshots/Screenshots/ping.png)
+![Ping2 Screenshot](./screenshots/Screenshots/ping2.png)
 
 
 
