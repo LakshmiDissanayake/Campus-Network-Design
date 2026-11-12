@@ -31,5 +31,10 @@ This project demonstrates the design of a structured network architecture connec
 
 Open the file using Cisco Packet Tracer to explore the network topology.
 
+Project Screenshots
+<img width="495" height="356" alt="ping2" src="https://github.com/user-attachments/assets/2165c46c-70e7-4e2b-a405-1c9d6692008d" />
+
+
+
 ## Author
 Designed and implemented by me.
